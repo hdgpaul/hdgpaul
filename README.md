@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HDGTHEK
+- 👋 Hi, I’m @hdgpaul
 - 👀 I’m interested in Start-up, marketing
 - 🌱 I’m currently learning Nothing!
 - 📫 How to reach me : irvcaptain@knu.ac.kr
