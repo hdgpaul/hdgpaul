@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HDGTHEK
-- 👀 I’m interested in Web Applicatiaons, Start-up, marketing, and basketball
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on UI/UX Designer
+- 👀 I’m interested in Start-up, marketing
+- 🌱 I’m currently learning Nothing!
 - 📫 How to reach me : irvcaptain@knu.ac.kr
 
 <!---
